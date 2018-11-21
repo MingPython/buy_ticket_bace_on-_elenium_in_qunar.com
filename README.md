@@ -1,2 +1,6 @@
 # buy_ticket_bace_on-_elenium_in_qunar.com
-这是一个简单的、基于selenium在去哪儿网自动查看购票的一个程序，需要python3.5解释器，chrome游览器，和对应的chromedriver插件（chromedriver版本必须按照游览器对应的版本安装）
+1.程序依赖Chrome游览器和Chromedriver(根据自己的chrome的版本安装对应的版本)
+2.首先在setting文件配置自己购买的车票的信息
+3.请在python3.5环境下运行main文件
+4.订到票后会自定弹出游览器运行的界面
+5.在游览器支付界面支付即可完成订购
